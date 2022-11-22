@@ -14,9 +14,9 @@ Save the listener count for an Shoutcast/Icecast stream to Listeners.txt for use
     
         Set-ExecutionPolicy unrestricted
 
- - Test it by running .\GetListeners-Icecast.ps1 and/or
-    .\GetListeners-Shoutcast.ps1 under the path you saved it in
-    Powershell and check the value of C:\RadioDJv2\Listeners.txt to see
+ - Test it by running *.\GetListeners-Icecast.ps1* and/or
+    *.\GetListeners-Shoutcast.ps1* under the path you saved it in
+    Powershell and check the value of *C:\RadioDJv2\Listeners.txt* to see
     if it worked.
 
  - Under Task Scheduler, create a new task set to Run whether user is
