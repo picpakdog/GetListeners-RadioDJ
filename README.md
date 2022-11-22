@@ -8,7 +8,8 @@ Save the listener count for an Shoutcast/Icecast stream to Listeners.txt for use
     depending on which server you are using.
     
  - **Shoutcast:** Replace http://IP ADDRESS:PORT/ with your station's info, and edit the path of C:\RadioDJv2\Listeners.txt if needed
-           **Icecast:** Replace http://IP ADDRESS:PORT/ with your station's info, set $user and $pass to your admin username and password, and edit the path of C:\RadioDJv2\Listeners.txt if needed
+ 
+   **Icecast:** Replace http://IP ADDRESS:PORT/ with your station's info, set $user and $pass to your admin username and password, and edit the path of C:\RadioDJv2\Listeners.txt if needed
  - Run Powershell as administrator and run the command to allow
     executing the script:
     
