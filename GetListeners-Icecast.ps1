@@ -12,6 +12,3 @@ $result = Invoke-RestMethod $root -Credential $credential
 Clear-Content ('C:\RadioDJv2\Listeners.txt')
 $result.icestats.listeners | Add-Content ('C:\RadioDJv2\Listeners.txt')
 Exit
-
-
-
